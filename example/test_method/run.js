@@ -1,6 +1,3 @@
-/**
- * Created by IAOC on 2014/12/3.
- */
 var fk = require("../.."),
     App = fk.APP,
     app = new App(),
